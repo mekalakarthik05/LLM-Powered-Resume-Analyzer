@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+python-dotenv
+numpy
+scikit-learn
+pdfplumber
+python-docx
+spacy
+fpdf2
+ollama
+langchain-text-splitters

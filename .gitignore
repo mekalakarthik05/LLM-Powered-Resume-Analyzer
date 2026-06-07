@@ -1,0 +1,48 @@
+# Environment
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+build/
+.npm/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Runtime output
+*.log
+logs/
+tmp/
+temp/
+uploads/
+chroma/
+chromadb/
+
+# Local app overrides
+backend/resume_profile_overrides.json
+
+# Local assistant/editor state
+.sixth/
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db

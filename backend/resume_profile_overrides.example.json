@@ -1,0 +1,53 @@
+{
+  "profiles": [
+    {
+      "id": "sample_profile",
+      "match": {
+        "emails": ["candidate@example.com"],
+        "phones": ["+1 555 010 0000"],
+        "name_tokens": ["candidate name"]
+      },
+      "structured_resume": {
+        "template_key": "ats_single_column_premium",
+        "template_name": "Technical Excellence Format",
+        "ats_safe": true,
+        "name": "CANDIDATE NAME",
+        "canonical_name": "Candidate Name",
+        "contact_items": [
+          "City, Country",
+          "+1 555 010 0000",
+          "candidate@example.com"
+        ],
+        "profile_links": [
+          {
+            "label": "LinkedIn",
+            "url": "https://www.linkedin.com/in/candidate"
+          },
+          {
+            "label": "GitHub",
+            "url": "https://github.com/candidate"
+          }
+        ],
+        "sections": [
+          {
+            "kind": "summary",
+            "title": "PROFESSIONAL SUMMARY",
+            "paragraphs": [
+              "Short, factual summary generated from verified resume evidence."
+            ]
+          },
+          {
+            "kind": "skills",
+            "title": "TECHNICAL SKILLS",
+            "categories": [
+              {
+                "label": "Primary",
+                "items": ["Python", "React", "FastAPI"]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

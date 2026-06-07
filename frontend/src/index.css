@@ -1,0 +1,4 @@
+@tailwind utilities;
+
+/* Only keep Tailwind utilities.
+   All global styles are controlled in App.tsx */
