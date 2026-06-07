@@ -9,7 +9,6 @@
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-RAG-orange?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-LLM-purple?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
 
 ### Transforming Traditional Resume Screening with Generative AI & Explainable Intelligence
 
