@@ -1,9 +1,5 @@
 # 🚀 ResumeIQ — Enterprise LLM-Powered Resume Intelligence Platform
 
-<div align="center">
-
-<img src="docs/banner.png" alt="ResumeIQ Banner" width="100%">
-
 # 🧠 ResumeIQ
 
 ### AI-Powered Resume Analysis • ATS Optimization • Semantic Matching • RAG Intelligence
@@ -283,36 +279,6 @@ ResumeIQ/
 
 ---
 
-# 📸 Application Preview
-
-## Dashboard
-
-```text
-docs/screenshots/dashboard.png
-```
-
-## Resume Analysis
-
-```text
-docs/screenshots/analysis.png
-```
-
-## ATS Report
-
-```text
-docs/screenshots/report.png
-```
-
----
-
-# 🎬 Demo
-
-```text
-docs/demo/resumeiq-demo.gif
-```
-
----
-
 # 🌍 Real-World Applications
 
 ### Candidates
@@ -352,21 +318,6 @@ VectorStore --> Embeddings
 
 Ollama --> AIResponse
 ```
-
----
-
-# 📈 Future Roadmap
-
-- [x] Resume Parsing
-- [x] Semantic Matching
-- [x] ATS Evaluation
-- [x] Resume Optimization
-- [x] Skill Gap Detection
-- [ ] LinkedIn Integration
-- [ ] Multi-LLM Support
-- [ ] Interview Question Generator
-- [ ] Cloud Deployment
-- [ ] Enterprise Dashboard
 
 ---
 
