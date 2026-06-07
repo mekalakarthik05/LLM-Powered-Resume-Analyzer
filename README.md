@@ -13,7 +13,6 @@
 
 ### Transforming Traditional Resume Screening with Generative AI & Explainable Intelligence
 
-[Features](#-core-features) • [Architecture](#-system-architecture) • [Installation](#-installation) • [Roadmap](#-roadmap)
 
 </div>
 
